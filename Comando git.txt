@@ -1,0 +1,14 @@
+Baixar o repositório do Github:
+https://github.com/GabrielXavierAnjos/Projeto-Interfaces-Web.git
+
+Adicionar as mudanças feitas na nova versão
+- git add *
+
+Configurar o usuário que fará/registrará as alterações
+- git config user.email "rafael.zottesso@ifpr.edu.br"
+
+Registrar as mudanças (nova versão)
+- git commit -m "Mensagem explicando mudanças"
+
+Enviar código para repositório na Internet
+- git push origin master
