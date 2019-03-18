@@ -3,13 +3,15 @@
   margin: 0px ;
 }
 body{
-  background-color:#00FFFF;
+  background-color:#FFFFFF;
 
 }
 .menu{
-   background-color: #4B0082;
+   background-color: #DCDCDC;
    color: ##0000FF;
-   font-size: 20px;
+   font-size: 40px;
+   text-align: center;
+
 }
 #RodapePrincipal{
 
@@ -17,8 +19,8 @@ body{
 }
 
 .rodape{
-  background-color: #FF00FF;
-  color:#FFFF00;
+  background-color: #DCDCDC;
+  color:#000000;
 
 
 }
@@ -28,7 +30,20 @@ border-style: solid;
 
 border-width: 1px;
 
-border-color: #FFFF00;
+border-color: #000000;
 
 padding:10px;
+}
+.cabecalho{
+   font-size: 11px;
+
+}
+.conteudo{
+  text-align: center;
+
+
+}
+.topico{
+  text-align: center;
+
 }
