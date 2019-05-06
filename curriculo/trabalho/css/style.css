@@ -1,0 +1,45 @@
+*{
+  padding:0px ;
+  margin: 0px ;
+}
+body{
+  background-color:#FFFFFF;
+}
+.menu{
+   background-color: #DCDCDC;
+   color: ##0000FF;
+   font-size: 20px;
+   text-align: left;
+}
+#RodapePrincipal{
+  text-align:left;
+}
+.rodape{
+  background-color: #DCDCDC;
+  color:#000000;
+}
+.conteudo{
+border-style: solid;
+border-width: 1px;
+border-color: #000000;
+padding:10px;
+}
+.cabecalho{
+   font-size: 11px;
+}
+.conteudo{
+  text-align: left;
+}
+.topico{
+  text-align: left;
+}
+.contato{
+  font-size: 10px;
+  float: right;
+}
+.nome{
+   float: left;
+}
+.limparFloat{
+  clear: both;
+}
